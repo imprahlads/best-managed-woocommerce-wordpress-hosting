@@ -744,6 +744,9 @@ The right pick here genuinely depends on which category you actually need: Kinst
 
 If WooCommerce is just one plugin on a broader WordPress build, our guide to [free WooCommerce hosting](https://digitalprahlad.com/free-woocommerce-hosting/) covers whether a genuinely free tier can work for a small store, and our [free WooCommerce extensions](https://digitalprahlad.com/free-woocommerce-extensions-for-ecommerce/) guide covers the plugin side once hosting is sorted. If you're migrating an existing store to a new host from this list, our [WordPress migration guide](https://digitalprahlad.com/how-to-migrate-wordpress-to-new-host/) walks through doing that without losing traffic or order data.
 
+Read Also [Best Dedicated Servers in Singapore](https://github.com/imprahlads/Best-dedicated-server-hosting-in-Singapore)
+
+
 ## Frequently Asked Questions
 
 **What's the difference between WordPress hosting and managed WooCommerce hosting?**
